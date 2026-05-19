@@ -31,10 +31,15 @@ interests:
 
 <div align="center">
 
-<br><br>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SafalKarkey&theme=gruvbox&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" />
+
+
+<!-- Philosophical Quotes -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=3500&color=EBDBB2&center=true&vCenter=true&width=1000&lines=He+who+has+a+why+to+live+can+bear+almost+any+how.+-+Nietzsche;The+happiness+of+your+life+depends+upon+the+quality+of+your+thoughts.+-+Marcus+Aurelius;In+a+time+of+deceit+telling+the+truth+is+a+revolutionary+act.+-+Orwell;What+does+not+kill+me%2C+makes+me+stronger.+-+Nietzsche;Waste+no+more+time+arguing+about+what+a+good+man+should+be.+Be+one.+-+Marcus+Aurelius;Freedom+is+the+freedom+to+say+that+two+plus+two+make+four.+-+Orwell" alt="Philosophical Quotes" />
+</a>
 
 </div>
 
