@@ -27,17 +27,9 @@ interests:
 
 ---
 
-### GitHub Analytics
+### Analytics
 
 <div align="center">
-
-<!-- Stats Card -->
-<img height="165" src="./profile/stats.svg" />
-
-<br><br>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafalKarkey&theme=gruvbox&hide_border=true&layout=compact&langs_count=8&exclude_repo=github-readme-stats,SafalKarkey.github.io" />
 
 <br><br>
 
