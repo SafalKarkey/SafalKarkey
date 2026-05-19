@@ -1,5 +1,73 @@
-### Hi there 👋
+<div align="center">
 
-<!-- ![Safal's GIthub Stats](https://github-readme-stats.vercel.app/api?username=SafalKarkey&show_icons=true&theme=gruvbox) -->
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Safal%20Karkey&fontSize=60&fontAlignY=35&animation=twinkling&desc=Security%20Engineer&descAlignY=55&descAlign=50" />
 
-[![Top Langs](https://github-readme-stats-orcin-five-46.vercel.app/api/top-langs/?username=SafalKarkey&exclude_repo=github-readme-stats,SafalKarkey.github.io&theme=gruvbox)](https://github.com/SafalKarkey/github-readme-stats)
+<br>
+
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Breaking+things+to+make+them+stronger;Security+Engineer;Full-stack+exploitation+and+defense;Always+learning" alt="Typing SVG" />
+</a>
+
+</div>
+
+---
+
+### About Me
+
+```yaml
+name: Safal Karkey
+role: [ "Security Engineering" ]
+interests:
+  - Web App, Cloud, Network Security
+  - Hardware, LLM exploitation
+  - Defense in Depth
+```
+
+---
+
+### GitHub Analytics
+
+<div align="center">
+
+<!-- Stats Card -->
+<img height="165" src="./profile/stats.svg" />
+
+<br><br>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafalKarkey&theme=gruvbox&hide_border=true&layout=compact&langs_count=8&exclude_repo=github-readme-stats,SafalKarkey.github.io" />
+
+<br><br>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SafalKarkey&theme=gruvbox&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" />
+
+</div>
+
+---
+
+### 🔗 Connect
+
+<div align="center">
+
+[![X / Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SafalKarkey)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Visitor Counter -->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=SafalKarkey.SafalKarkey" />
+
+<br><br>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+</div>
